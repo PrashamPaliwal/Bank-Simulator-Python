@@ -12,7 +12,8 @@ This project demonstrates **file handling, data consistency, and CRUD operations
 - **Bank(RAW).txt** → Development/raw version of the bank file.  
 - **Bank.py** → Main program file containing all functions and menu logic.  
 - **README.md** → Documentation for the project.
--⚠️ Note: The text file used for storage is not uploaded. It will be created automatically when the program runs.
+
+⚠️ Note: The text file used for storage is not uploaded. It will be created automatically when the program runs.
 
 ---
 
