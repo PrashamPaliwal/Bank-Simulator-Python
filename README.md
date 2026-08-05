@@ -25,7 +25,7 @@ This project demonstrates **file handling, data consistency, and CRUD operations
 - **Transfer** → Move money between accounts (even across different banks).  
 - **Update Pin** → Change account pin securely.  
 - **Update Details** → Modify account holder information (e.g., name).  
-- **Multi-Bank Support** → Works with HDFC, AXIS, and SBI folders.  
+- **Multi-Bank Support** → Works with HDFC, AXIS, and SBI folders. *(The system is designed to be scalable, so additional banks can be added easily without changing the core logic.)*
 
 ---
 
